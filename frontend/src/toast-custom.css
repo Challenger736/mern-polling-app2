@@ -1,0 +1,32 @@
+/* ✅ Success Toast */
+.Toastify__toast--success {
+  background: #1f8b4c !important; /* Dark green */
+  color: #fff !important;
+  font-weight: bold;
+}
+
+/* ✅ Info Toast */
+.Toastify__toast--info {
+  background: #1f4d8b !important; /* Dark blue */
+  color: #fff !important;
+}
+
+/* ✅ Warning Toast */
+.Toastify__toast--warning {
+  background: #8b6c1f !important; /* Dark gold */
+  color: #fff !important;
+  font-weight: bold;
+}
+
+/* ✅ Error Toast (if needed later) */
+.Toastify__toast--error {
+  background: #8b1f1f !important; /* Dark red */
+  color: #fff !important;
+}
+
+/* ✅ Make toast text bigger */
+.Toastify__toast {
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 14px;
+}
